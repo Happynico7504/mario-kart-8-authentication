@@ -21,3 +21,6 @@ build
 
 # logs
 log
+
+# Revivetendo runtime artifacts
+/mario-kart-8-authentication
